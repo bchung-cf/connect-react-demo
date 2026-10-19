@@ -27,7 +27,7 @@ function App() {
       <p className="eyebrow">Cloudflare Connect demo</p>
 
       <h1>
-        React frontend v2.
+        React frontend.
         <br />
         <span>Workers backend.</span>
       </h1>
